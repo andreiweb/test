@@ -12,6 +12,7 @@ public final class Person {
          this.name = name;
          this.age = age;
          this.friends = new ArrayList<String>(friends);
+         System.out.println("");
      }
 
 }
